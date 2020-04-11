@@ -31,3 +31,9 @@
 **Work Related Links:**
 
 - [CoSketch Github](https://github.com/luvuong-le/co-sketch)
+
+## Day 3: Saturday, 11th April, 2020
+
+### Today's Progress
+
+- No work today. Spent time with family. Good to take a break here and there 😄
