@@ -37,3 +37,15 @@
 ### Today's Progress
 
 - No work today. Spent time with family. Good to take a break here and there 😄
+
+## Day 4: Sunday, 12th April, 2020
+
+### Today's Progress
+
+- Published blog post about SemVer and Conventional Commits
+
+
+**Work Related Links:**
+
+- [CoSketch Github](https://github.com/luvuong-le/co-sketch)
+- [SemVer and Conventional Commits Post](https://dev.to/luvuongle/semver-and-conventional-commits-4omc)
