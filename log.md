@@ -43,7 +43,8 @@
 ### Today's Progress
 
 - Published blog post about SemVer and Conventional Commits
-
+- Spent some time to work on React, Canvas, WebSockets project
+- Starting to dive into Data Structures and Algorithms again
 
 **Work Related Links:**
 
