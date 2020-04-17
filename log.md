@@ -50,3 +50,35 @@
 
 - [CoSketch Github](https://github.com/luvuong-le/co-sketch)
 - [SemVer and Conventional Commits Post](https://dev.to/luvuongle/semver-and-conventional-commits-4omc)
+
+## Day 5: Monday, 13th April, 2020
+
+### Today's Progress
+
+- Focused on watching the JS course on data structures and algorithms by Colt Steele and taking notes.
+
+- Namely Big O Notation! something I've never really understood fully
+
+**Thoughts:** 
+
+- I think this will give my skills as a developer a much needed boost
+- I've always had trouble understanding concepts like Big O Notation so this is very helpful
+
+## Day 6 / 7: Tuesday 14th April 2020 & Wednesday 15th April 2020
+
+### Today's Progress
+
+- Continued with course on Udemy
+
+- Tried out new knowledge with some Big O Notation questions (need more practice though)
+
+- Also thinking of creating a blog separate from my personal website but have other projects to finish first!
+
+## Day 8 & 9: Thursday 15th April 2020 & Friday 16th April 2020
+
+### Today's Progress
+
+An eventful 2 days, PC decided to BSOD on me so some time was spent fixing that and decided to remove my dual boot ubuntu finally
+
+- Udemy Course & Messing around more with docker!
+- Day 9 Rest Day
