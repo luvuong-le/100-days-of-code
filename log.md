@@ -74,11 +74,26 @@
 
 - Also thinking of creating a blog separate from my personal website but have other projects to finish first!
 
-## Day 8 & 9: Thursday 15th April 2020 & Friday 16th April 2020
+## Day 8 & 9: Thursday 16th April 2020 & Friday 17th April 2020
 
 ### Today's Progress
 
-An eventful 2 days, PC decided to BSOD on me so some time was spent fixing that and decided to remove my dual boot ubuntu finally
+- These Udemy courses sure take a while but worth it! 
+- Messing around more with docker & docker-compose basics
 
-- Udemy Course & Messing around more with docker!
-- Day 9 Rest Day
+PC decided to BSOD on me so spent time fixing that and decided to remove my dual boot ubuntu finally...
+
+
+## Day 10: Saturday 18th April 2020
+
+### Today's Progress
+
+- Doing some improvements to my portfolio
+
+- So many more improvements I can do to it and one of the main ones is setting up a blog!
+
+- I've spent time researching and setting up Netlify CMS with Gatsby JS
+
+**Work Related Links:**
+
+- [Portfolio Github](https://github.com/luvuong-le/lu-vuong-le.me)
