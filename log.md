@@ -97,3 +97,20 @@ PC decided to BSOD on me so spent time fixing that and decided to remove my dual
 **Work Related Links:**
 
 - [Portfolio Github](https://github.com/luvuong-le/lu-vuong-le.me)
+
+## Day 11: Sunday 19th April 2020
+
+### Today's Progress
+
+Learned how to set up a workflow for blogging on my portfolio with Gatsby
+
+Have the basics sorted on my site making use of Netlify CMS but still far from done overall 😁
+
+**Work Demos**
+
+![Portfolio Blog + Netlify CMS Demo](./assets/blog.gif)
+
+**Work Related Links:**
+
+- [Portfolio Github](https://github.com/luvuong-le/lu-vuong-le.me)
+
