@@ -114,3 +114,18 @@ Have the basics sorted on my site making use of Netlify CMS but still far from d
 
 - [Portfolio Github](https://github.com/luvuong-le/lu-vuong-le.me)
 
+## Day 12: Monday 20th April 2020
+
+### Today's Progress
+
+Blog is coming along slowly but surely and I'm learning a lot with how all this integrates together with Gatsby and Markdown. I think I might need a CSS overhaul after this though...
+
+**Work Demos**
+
+![Portfolio Blog + Netlify CMS Demo](./assets/blog-progress-2.gif)
+
+**Work Related Links:**
+
+- [Portfolio Github](https://github.com/luvuong-le/lu-vuong-le.me)
+
+
