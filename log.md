@@ -128,4 +128,10 @@ Blog is coming along slowly but surely and I'm learning a lot with how all this 
 
 - [Portfolio Github](https://github.com/luvuong-le/lu-vuong-le.me)
 
+## Day 13 & 14: Tuesday 21st & Wednesday 22nd April 2020
 
+### Today's Progress
+
+- Continuing Udemy course after taking a break
+
+- Wanted to work on other things aside from my portfolio blog so decided to try out a data visualization library (Recharts) with React and Typescript
