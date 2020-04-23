@@ -135,3 +135,7 @@ Blog is coming along slowly but surely and I'm learning a lot with how all this 
 - Continuing Udemy course after taking a break
 
 - Wanted to work on other things aside from my portfolio blog so decided to try out a data visualization library (Recharts) with React and Typescript
+
+## Day 15: Thursday 23rd April 2020
+
+### Today's Progress = Rest Day
