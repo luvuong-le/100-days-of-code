@@ -139,3 +139,15 @@ Blog is coming along slowly but surely and I'm learning a lot with how all this 
 ## Day 15: Thursday 23rd April 2020
 
 ### Today's Progress = Rest Day
+
+## Day 16 & 17: Friday 24th & Saturday 25th April 2020
+
+### Today's Progress
+
+Implemented searching functionality with Algolia and Gatsby
+
+**Thoughts** 
+
+I'm also dreading the major CSS refactor that eventually awaits me
+
+- [Portfolio Github](https://github.com/luvuong-le/lu-vuong-le.me)
