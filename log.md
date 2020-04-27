@@ -144,10 +144,19 @@ Blog is coming along slowly but surely and I'm learning a lot with how all this 
 
 ### Today's Progress
 
-Implemented searching functionality with Algolia and Gatsby
+Implemented searching functionality with Algolia and Gatsby on personal blog
 
 **Thoughts** 
 
 I'm also dreading the major CSS refactor that eventually awaits me
 
 - [Portfolio Github](https://github.com/luvuong-le/lu-vuong-le.me)
+
+## Day 18 & 19: Sunday 26th & Monday 27th April 2020
+
+### Today's Progress
+
+- Added Disqus comments to blog and copy to clipboard for code blocks in markdown
+- Created a random generator for fun
+
+![Colorgen](./assets/colorgen.gif)
