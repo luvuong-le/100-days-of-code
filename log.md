@@ -160,3 +160,10 @@ I'm also dreading the major CSS refactor that eventually awaits me
 - Created a random generator for fun
 
 ![Colorgen](./assets/colorgen.gif)
+
+## Day 20: Tuesday 28th April 2020
+
+### Today's Progress
+
+- Udemy Course (Data Structures Colt Steele)
+- Writing down notes and learning
