@@ -167,3 +167,11 @@ I'm also dreading the major CSS refactor that eventually awaits me
 
 - Udemy Course (Data Structures Colt Steele)
 - Writing down notes and learning
+
+## Day 21: Wednesday 28th April 2020
+
+### Today's Progress
+
+- Learning how to create a CSS Masonary layout
+
+![Masonary](./assets/masonary.gif)
