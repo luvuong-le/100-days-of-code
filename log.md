@@ -168,10 +168,23 @@ I'm also dreading the major CSS refactor that eventually awaits me
 - Udemy Course (Data Structures Colt Steele)
 - Writing down notes and learning
 
-## Day 21: Wednesday 28th April 2020
+## Day 21: Wednesday 29th April 2020
 
 ### Today's Progress
 
-- Learning how to create a CSS Masonary layout
+- Learning how to create a CSS Masonry layout
 
-![Masonary](./assets/masonary.gif)
+![Masonry](./assets/masonry.gif)
+
+## Day 22: Thursday 30th April, May 2020
+
+### Today's Progress
+
+- Rest Day 💤
+- Reading Books 📖
+
+## Day 23 & 24: Friday 1st & Saturday 2nd of May 2020
+
+Colt Steele Udemy Course progressed. Really good to get a refresher over problem-solving strategies 
+
+Working on a blog post about CSS Specificity ✏️
