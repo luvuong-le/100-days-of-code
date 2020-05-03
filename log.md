@@ -188,3 +188,9 @@ I'm also dreading the major CSS refactor that eventually awaits me
 Colt Steele Udemy Course progressed. Really good to get a refresher over problem-solving strategies 
 
 Working on a blog post about CSS Specificity ✏️
+
+## Day 25: Sunday 3rd of May 2020
+
+Worked on a Pixel Art Maker with HTML CSS JS 🎨
+
+![Pixel Art](./assets/pixelart.gif)
