@@ -194,3 +194,9 @@ Working on a blog post about CSS Specificity ✏️
 Worked on a Pixel Art Maker with HTML CSS JS 🎨
 
 ![Pixel Art](./assets/pixelart.gif)
+
+## Day 26: Monday 4th of May 2020
+
+CSS art tutorial and extending my own!
+
+![Emoji Art](./assets/emojiart.gif)
