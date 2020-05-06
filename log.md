@@ -200,3 +200,11 @@ Worked on a Pixel Art Maker with HTML CSS JS 🎨
 CSS art tutorial and extending my own!
 
 ![Emoji Art](./assets/emojiart.gif)
+
+## Day 27 & 28: Tuesday 5th & Wednesday 6th of May 2020
+
+Rest Day
+
+Found out about (no bundler build tool) and researching/playing around with it
+
+[Snowpack](https://www.snowpack.dev/)
