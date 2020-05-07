@@ -208,3 +208,10 @@ Rest Day
 Found out about (no bundler build tool) and researching/playing around with it
 
 [Snowpack](https://www.snowpack.dev/)
+
+## Day 29: Thursday 7th of May 2020
+
+- Published a blog post on CSS Specificity
+- Finishing CSS art tutorial
+
+Plan tomorrow is to attempt a CSS Nintendo Switch Art
