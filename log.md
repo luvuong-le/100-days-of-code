@@ -215,3 +215,14 @@ Found out about (no bundler build tool) and researching/playing around with it
 - Finishing CSS art tutorial
 
 Plan tomorrow is to attempt a CSS Nintendo Switch Art
+
+## Day 30 & 31: Friday 7th & Saturday 8th of May 2020
+
+- Started and Finished Nintendo Switch CSS Art over two days (From friend suggestion)
+
+### Thoughts
+
+- This took awhile but definitely a fun project!
+- Improvements could be made but this is good enough for now
+
+![Nintendo Switch CSS Art](./assets/switch.gif)
