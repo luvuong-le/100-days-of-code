@@ -216,7 +216,7 @@ Found out about (no bundler build tool) and researching/playing around with it
 
 Plan tomorrow is to attempt a CSS Nintendo Switch Art
 
-## Day 30 & 31: Friday 7th & Saturday 8th of May 2020
+## Day 30 & 31: Friday 8th & Saturday 9th of May 2020
 
 - Started and Finished Nintendo Switch CSS Art over two days (From friend suggestion)
 
