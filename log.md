@@ -226,3 +226,9 @@ Plan tomorrow is to attempt a CSS Nintendo Switch Art
 - Improvements could be made but this is good enough for now
 
 ![Nintendo Switch CSS Art](./assets/switch.gif)
+
+## Day 32: Sunday 10th of May 2020
+
+-- Rest Day --
+
+No coding done today but rather doing other work that isn't coding-related. Back to it tomorrow 👍
