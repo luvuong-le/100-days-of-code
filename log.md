@@ -232,3 +232,7 @@ Plan tomorrow is to attempt a CSS Nintendo Switch Art
 -- Rest Day --
 
 No coding done today but rather doing other work that isn't coding-related. Back to it tomorrow 👍
+
+## Day 33: Monday 11th of May 2020
+
+Decided to try create a piano for next project but ran into a little trouble! Might have to start again 😅
