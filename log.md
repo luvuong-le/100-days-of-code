@@ -236,3 +236,7 @@ No coding done today but rather doing other work that isn't coding-related. Back
 ## Day 33: Monday 11th of May 2020
 
 Decided to try create a piano for next project but ran into a little trouble! Might have to start again 😅
+
+## Day 34: Tuesday 12th of May 2020
+
+I've been wanting to create a youtube channel to help teach others and share what I find interesting. Finally got started and uploaded my first youtube video!
