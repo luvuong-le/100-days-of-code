@@ -240,3 +240,9 @@ Decided to try create a piano for next project but ran into a little trouble! Mi
 ## Day 34: Tuesday 12th of May 2020
 
 I've been wanting to create a youtube channel to help teach others and share what I find interesting. Finally got started and uploaded my first youtube video!
+
+## Day 35 - 37: Wednesday 13th & Thursday 14th & Friday 15th of May 2020
+
+Having trouble balancing personal work, job, and spending time with family lately 😔
+
+Going to catch up with my projects on the weekend!
