@@ -246,3 +246,11 @@ I've been wanting to create a youtube channel to help teach others and share wha
 Having trouble balancing personal work, job, and spending time with family lately 😔
 
 Going to catch up with my projects on the weekend!
+
+## Day 38: Saturday 16th of May 2020
+
+Completed a more or less functioning synthesizer with Tone.js 🎹 🎵
+
+Not 100% sure with the audio concepts but still a fun project! Have ideas to add but that'll be for the future 🎼
+
+[Synth Keyboard](https://lu-vuong-le-synth.netlify.app)
