@@ -254,3 +254,13 @@ Completed a more or less functioning synthesizer with Tone.js 🎹 🎵
 Not 100% sure with the audio concepts but still a fun project! Have ideas to add but that'll be for the future 🎼
 
 [Synth Keyboard](https://lu-vuong-le-synth.netlify.app)
+
+## Day 39: Sunday 17th of May 2020
+
+Having a look at the Twitter API trying to see what project I could do, thinking of making an app to schedule tweets...unless you can already do that? 🤔
+
+## Day 40: Monday 18th of May 2020
+
+I wanted to get my project up and running with Next.js but had trouble since it wasn't working on my laptop... 🤔
+
+Turns out it ended up being a problem caused by me creating a symlink recently so it couldn't find the folder 🙃
