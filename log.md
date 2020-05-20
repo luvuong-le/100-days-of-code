@@ -264,3 +264,9 @@ Having a look at the Twitter API trying to see what project I could do, thinking
 I wanted to get my project up and running with Next.js but had trouble since it wasn't working on my laptop... 🤔
 
 Turns out it ended up being a problem caused by me creating a symlink recently so it couldn't find the folder 🙃
+
+## Day 41: Tuesday 19th of May 2020
+
+Finally got around to playing with Next.js and I'm interested in what I'm seeing so far
+
+Right now, just learning the features of Next.js, what it provides, and how it works 😀
