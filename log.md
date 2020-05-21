@@ -270,3 +270,11 @@ Turns out it ended up being a problem caused by me creating a symlink recently s
 Finally got around to playing with Next.js and I'm interested in what I'm seeing so far
 
 Right now, just learning the features of Next.js, what it provides, and how it works 😀
+
+## Day 42: Wednesday 20th of May 2020
+
+I didn't know there was a review process for a Twitter developer account... I see some struggles comingSleepy face
+
+In the meantime, I set up tailwind with Next.js 🍀
+
+[Tweet Scheduler](https://github.com/luvuong-le/tweet-scheduler)
