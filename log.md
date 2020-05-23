@@ -278,3 +278,9 @@ I didn't know there was a review process for a Twitter developer account... I se
 In the meantime, I set up tailwind with Next.js 🍀
 
 [Tweet Scheduler](https://github.com/luvuong-le/tweet-scheduler)
+
+## Day 43 - 45: Wednesday 20th -> Saturday 23rd of May 2020
+
+D43 - Rest day 😴
+
+D44 - 45 - Twitter hasn't replied about the dev account so I'm switching projects and been learning Tailwind CSS basics. Does anyone have any good designs I can recreate with Tailwind? 😁
