@@ -284,3 +284,11 @@ In the meantime, I set up tailwind with Next.js 🍀
 D43 - Rest day 😴
 
 D44 - 45 - Twitter hasn't replied about the dev account so I'm switching projects and been learning Tailwind CSS basics. Does anyone have any good designs I can recreate with Tailwind? 😁
+
+## Day 46: Sunday 24th of May 2020
+
+Another day another distraction and ended up doing this instead..Smiling face with open mouth and cold sweat
+
+Although I have real respect for online code editors like codepen who implement this properly. It's definitely a very difficult thing to do 
+
+![Ace Editor](./assets/ace-editor.gif)
