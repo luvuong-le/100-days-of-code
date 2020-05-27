@@ -292,3 +292,13 @@ Another day another distraction and ended up doing this instead..Smiling face wi
 Although I have real respect for online code editors like codepen who implement this properly. It's definitely a very difficult thing to do 
 
 ![Ace Editor](./assets/ace-editor.gif)
+
+## Day 47 - 48: Monday 25th and Tuesday 26th of May 2020
+
+D47 - No code today! Working on other important things 🙂
+
+D48 -  Created a quick basic CSS Cloud for part of an upcoming CSS Illustration playlist I want to make 😁
+
+Doing this makes me think I can extend this in a full illustration which I may try 😯 
+
+![CSS Art Cloud](./assets/cloud.png)
