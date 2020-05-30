@@ -302,3 +302,11 @@ D48 -  Created a quick basic CSS Cloud for part of an upcoming CSS Illustration 
 Doing this makes me think I can extend this in a full illustration which I may try 😯 
 
 ![CSS Art Cloud](./assets/cloud.png)
+
+## Day 49 - 51: Wednesday 27th, Thursday 28th, Friday 29th of May 2020
+
+Been MIA in posting but with the last few days I've been working on doing this CSS Illustration idea that popped into my head 🎨
+
+I'd recommend everyone have a go at doing one! It's really fun to do 🙂
+
+![House Cloud](./assets/house-cloud.gif)
