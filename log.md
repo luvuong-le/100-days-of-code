@@ -310,3 +310,11 @@ Been MIA in posting but with the last few days I've been working on doing this C
 I'd recommend everyone have a go at doing one! It's really fun to do 🙂
 
 ![House Cloud](./assets/house-cloud.gif)
+
+## Day 52 - 54: Saturday 30th - Sunday 31st of May 2020 & 1st June
+
+Watching data structures and algorithms course
+
+Not up to the algorithms section just yet but I am learning about some problem-solving strategies I never heard about before
+
+Always good to improve on problem-solving skills! 👌
