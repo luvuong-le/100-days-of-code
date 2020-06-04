@@ -318,3 +318,14 @@ Watching data structures and algorithms course
 Not up to the algorithms section just yet but I am learning about some problem-solving strategies I never heard about before
 
 Always good to improve on problem-solving skills! 👌
+
+## Day 55: 2nd June 2020
+
+Exploring ES10 & ES2020 features that I didn't know about
+
+- Array.flat()
+- Array.flatMap()
+- object.fromEntries()
+- BigInt
+
+and more 📖
