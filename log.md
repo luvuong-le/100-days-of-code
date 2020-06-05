@@ -329,3 +329,9 @@ Exploring ES10 & ES2020 features that I didn't know about
 - BigInt
 
 and more 📖
+
+## Day 56/57: 3rd and 4th of June 2020
+
+Hello from android 🤖
+
+![Android](./assets/android.gif)
