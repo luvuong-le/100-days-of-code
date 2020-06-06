@@ -335,3 +335,9 @@ and more 📖
 Hello from android 🤖
 
 ![Android](./assets/android.gif)
+
+## Day 57/58: 5th and 6th of June 2020
+
+Had fun doing this one, everyone loves Pacman, right? 😀
+
+![CSS Pacman](./assets/pacman.gif)
