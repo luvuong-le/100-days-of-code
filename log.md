@@ -341,3 +341,7 @@ Hello from android 🤖
 Had fun doing this one, everyone loves Pacman, right? 😀
 
 ![CSS Pacman](./assets/pacman.gif)
+
+## Day 59: 7th of June 2020
+
+Rest Day - Lazy Sunday
