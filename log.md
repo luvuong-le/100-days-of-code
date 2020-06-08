@@ -345,3 +345,7 @@ Had fun doing this one, everyone loves Pacman, right? 😀
 ## Day 59: 7th of June 2020
 
 Rest Day - Lazy Sunday
+
+## Day 60: 8th of June 2020
+
+I started reading into gRPC & protocol buffers because it's something I've been wanting to understand in more depth for a while now. It's really interesting so far!
