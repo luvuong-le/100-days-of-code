@@ -349,3 +349,13 @@ Rest Day - Lazy Sunday
 ## Day 60: 8th of June 2020
 
 I started reading into gRPC & protocol buffers because it's something I've been wanting to understand in more depth for a while now. It's really interesting so far!
+
+## Day 61 - 63: 9th - 11th of June 2020
+
+Not much done here with other things taking up time but did manage to try this out quickly ⌚️
+
+Definitely have ideas to improve it but I have another project I want to start doing
+
+## Day 64: 12th of June 2020
+
+Created a todo with Svelte to get myself familiar with the basics before I start using it 👌
