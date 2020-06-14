@@ -359,3 +359,7 @@ Definitely have ideas to improve it but I have another project I want to start d
 ## Day 64: 12th of June 2020
 
 Created a todo with Svelte to get myself familiar with the basics before I start using it 👌
+
+## Day 65: 13th of June 2020
+
+Started on a Kanban Board project with Svelte, got a simple layout going... next step is to figure out how to do drag and drop 🤔
