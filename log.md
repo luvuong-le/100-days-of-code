@@ -363,3 +363,7 @@ Created a todo with Svelte to get myself familiar with the basics before I start
 ## Day 65: 13th of June 2020
 
 Started on a Kanban Board project with Svelte, got a simple layout going... next step is to figure out how to do drag and drop 🤔
+
+## Day 66 - 67: 14th & 15th of June 2020
+
+Slow progress, but played around with the drag and drop api, got a lot more work to do with it though!
