@@ -367,3 +367,8 @@ Started on a Kanban Board project with Svelte, got a simple layout going... next
 ## Day 66 - 67: 14th & 15th of June 2020
 
 Slow progress, but played around with the drag and drop api, got a lot more work to do with it though!
+
+## Day 68: 16th of June 2020
+
+- Worked on svelte kanban board
+- Youtube video preparation, made a CSS heart illustration ❤️
