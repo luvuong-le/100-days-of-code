@@ -372,3 +372,13 @@ Slow progress, but played around with the drag and drop api, got a lot more work
 
 - Worked on svelte kanban board
 - Youtube video preparation, made a CSS heart illustration ❤️
+
+## Day 69: 17th of June 2020
+
+- Progress on drag and drop kanban board
+
+## Day 70 & 71: 18th & 19th of June 2020
+
+Day 70 - Rest day 😴
+
+Day 71 - Working on the kanban board project a bit more, makes me see how much work goes into applications like Jira,  Notion, Trello, and others 👏
