@@ -382,3 +382,9 @@ Slow progress, but played around with the drag and drop api, got a lot more work
 Day 70 - Rest day 😴
 
 Day 71 - Working on the kanban board project a bit more, makes me see how much work goes into applications like Jira,  Notion, Trello, and others 👏
+
+## Day 72: 20th of June 2020
+
+Worked on delete (with a custom context menu) and add functionality
+
+Gotta put this project on hold for a little bit because of other priorities 😦
