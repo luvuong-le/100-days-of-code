@@ -388,3 +388,9 @@ Day 71 - Working on the kanban board project a bit more, makes me see how much w
 Worked on delete (with a custom context menu) and add functionality
 
 Gotta put this project on hold for a little bit because of other priorities 😦
+
+# Day 73 - 74: 21st and 22nd of June 2020
+
+Worked on an interesting coding challenge that was given to me
+
+Got some good practice with creating CLIs with NodeJS after having not done it for a long time 👌
