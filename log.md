@@ -394,3 +394,7 @@ Gotta put this project on hold for a little bit because of other priorities 😦
 Worked on an interesting coding challenge that was given to me
 
 Got some good practice with creating CLIs with NodeJS after having not done it for a long time 👌
+
+# Day 75: 23rd of June 2020
+
+Decided to do something small tonight so I created this 'bonfire' I've had in my mind for a while 🔥
