@@ -398,3 +398,11 @@ Got some good practice with creating CLIs with NodeJS after having not done it f
 # Day 75: 23rd of June 2020
 
 Decided to do something small tonight so I created this 'bonfire' I've had in my mind for a while 🔥
+
+# Day 76 & 77: 24th & 25th of June 2020
+
+Day 76 - Had a bit of a lazy day 😅
+
+Day 77
+- Watching data structures and algorithms course
+- Spending time planning what tutorial videos I can make that would be helpful or interesting to others
