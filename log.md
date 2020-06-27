@@ -406,3 +406,7 @@ Day 76 - Had a bit of a lazy day 😅
 Day 77
 - Watching data structures and algorithms course
 - Spending time planning what tutorial videos I can make that would be helpful or interesting to others
+
+# Day 78 & 79: 26th & 27th of June 2020
+
+Working on some refactoring for my in-browser code editor mini-project and then had a random idea to just start over and replicate it to be like MDN... think I got close enough 😁
