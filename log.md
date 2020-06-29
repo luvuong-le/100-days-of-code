@@ -410,3 +410,9 @@ Day 77
 # Day 78 & 79: 26th & 27th of June 2020
 
 Working on some refactoring for my in-browser code editor mini-project and then had a random idea to just start over and replicate it to be like MDN... think I got close enough 😁
+
+# Day 80 & 81: 28th & 29th of June 2020
+
+Day 80 was a Sunday 😴
+
+Day 81- I haven't really had time for projects but one thing I want to do is make time for reading my books I have lying around, so I'm planning to have at least 1 hour to read per day starting with this one 😃
