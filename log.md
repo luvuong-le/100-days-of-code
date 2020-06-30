@@ -416,3 +416,7 @@ Working on some refactoring for my in-browser code editor mini-project and then 
 Day 80 was a Sunday 😴
 
 Day 81- I haven't really had time for projects but one thing I want to do is make time for reading my books I have lying around, so I'm planning to have at least 1 hour to read per day starting with this one 😃
+
+# Day 82: 30th of June 2020
+
+Saw a nice image of a phone and battery and wanted to try create one with CSS, pretty rough right now but getting there ✌️ 
