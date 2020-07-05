@@ -421,7 +421,7 @@ Day 81- I haven't really had time for projects but one thing I want to do is mak
 
 Saw a nice image of a phone and battery and wanted to try create one with CSS, pretty rough right now but getting there ✌️ 
 
-# Day 83 & 84: 1st & 2nd of July 2020
+# Day 83 & 84: 1st & 2nd & 3rd of July 2020
 
 Doing regular katas to practice TDD as mentioned by @dmokafa  🙏
 
@@ -432,6 +432,14 @@ Strictly following the TDD cycle
 ☑️ Refactor code 
 
 
-# Day 85: 3rd of July 2020
+# Day 85: 4th of July 2020
 
 Rest Day 💤
+
+# Day 86: 5th of July 2020
+
+Tried out my first challenge from front-end mentor challenge after seeing a tweet
+
+I think these challenges are really helpful in improving front end skills! 👌
+
+Definitely will be attempting a few more 👍
