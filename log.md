@@ -404,6 +404,7 @@ Decided to do something small tonight so I created this 'bonfire' I've had in my
 Day 76 - Had a bit of a lazy day 😅
 
 Day 77
+
 - Watching data structures and algorithms course
 - Spending time planning what tutorial videos I can make that would be helpful or interesting to others
 
@@ -421,7 +422,7 @@ Day 81- I haven't really had time for projects but one thing I want to do is mak
 
 Saw a nice image of a phone and battery and wanted to try create one with CSS, pretty rough right now but getting there ✌️ 
 
-# Day 83 & 84: 1st & 2nd & 3rd of July 2020
+# Day 83 & 84: 1st & 2nd of July 2020
 
 Doing regular katas to practice TDD as mentioned by @dmokafa  🙏
 
@@ -429,10 +430,10 @@ Strictly following the TDD cycle
 
 ❌ Write a failing test
 ✔️ Make the test pass
-☑️ Refactor code 
+☑️ Refactor code
 
 
-# Day 85: 4th of July 2020
+# Day 85: 3th of July 2020
 
 Rest Day 💤
 
@@ -443,3 +444,13 @@ Tried out my first challenge from front-end mentor challenge after seeing a twee
 I think these challenges are really helpful in improving front end skills! 👌
 
 Definitely will be attempting a few more 👍
+
+# Day 87 & 88: 6th & 7th of July 2020
+
+Working on side things
+
+Timed myself doing the second @frontendmentor challenge ⌚
+
+# Missed Days
+
+1 day
