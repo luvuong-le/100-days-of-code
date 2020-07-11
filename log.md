@@ -451,6 +451,12 @@ Working on side things
 
 Timed myself doing the second @frontendmentor challenge ⌚
 
+# Day 89 - 91: 8th - 10th of July 2020
+
+Took some time to practice and read about speaking skills because that's also important to me
+
+Slowly working on another @frontendmentor challenge
+
 # Missed Days
 
 1 day
