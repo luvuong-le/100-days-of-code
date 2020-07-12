@@ -457,6 +457,12 @@ Took some time to practice and read about speaking skills because that's also im
 
 Slowly working on another @frontendmentor challenge
 
+# Day 92: 11th of July 2020
+
+Finished the HTML and CSS for another @frontendmentor challenge 
+
+All that's left is to do the client side validation 
+
 # Missed Days
 
 1 day
