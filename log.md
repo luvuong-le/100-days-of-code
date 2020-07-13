@@ -463,6 +463,11 @@ Finished the HTML and CSS for another @frontendmentor challenge
 
 All that's left is to do the client side validation 
 
+# Day 93 - 94: 12th & 13 of July 2020
+
+Had to finish off that client-side validation ✅
+Did some more reading with the 'Clean Code' 📖
+
 # Missed Days
 
 1 day
