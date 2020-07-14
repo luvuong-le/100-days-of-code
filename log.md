@@ -468,6 +468,11 @@ All that's left is to do the client side validation
 Had to finish off that client-side validation ✅
 Did some more reading with the 'Clean Code' 📖
 
+# Day 95: 14th of July 2020 
+
+
+Don't know why but I was so tired that I fell asleep on the couch, so this will be a rest day to recover 😴
+
 # Missed Days
 
 1 day
