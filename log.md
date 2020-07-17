@@ -470,8 +470,15 @@ Did some more reading with the 'Clean Code' 📖
 
 # Day 95: 14th of July 2020 
 
-
 Don't know why but I was so tired that I fell asleep on the couch, so this will be a rest day to recover 😴
+
+# Day 96 - 98: 15th - 17th July 2020
+
+Day 96 - Working on some side work 
+
+Day 97 - 98
+
+@frontendmentor challenge #4. Not quite 100% similar but for now it's not looking too bad
 
 # Missed Days
 
