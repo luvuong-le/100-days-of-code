@@ -480,6 +480,12 @@ Day 97 - 98
 
 @frontendmentor challenge #4. Not quite 100% similar but for now it's not looking too bad
 
+# Day 99: 18th July 2020
+
+Completed the last part for this @frontendmentor challenge creating the desktop view 🖥️
+
+I can't believe it's already been 99 days! 1 more day to go!
+
 # Missed Days
 
 1 day
