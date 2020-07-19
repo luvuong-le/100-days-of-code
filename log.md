@@ -486,6 +486,14 @@ Completed the last part for this @frontendmentor challenge creating the desktop 
 
 I can't believe it's already been 99 days! 1 more day to go!
 
-# Missed Days
+# Day 100: 18th July 2020
 
-1 day
+There we go!
+
+For the last day, I wanted to do something to thank you all and this is what I came up with 😅
+
+Thank you all for your support during this fun journey! 🙏
+
+I'll see you in the next round! Can't wait to continue learning with everyone 🔥
+
+![100 Days](./assets/100days.gif)
